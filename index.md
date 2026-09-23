@@ -1,6 +1,6 @@
 # Integritetspolicy för Recept
 
-Senast uppdaterad: 2026-09-22
+Senast uppdaterad: 2026-09-23
 
 ## Utgivare och kontakt
 
