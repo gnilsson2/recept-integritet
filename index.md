@@ -1,6 +1,6 @@
 # Integritetspolicy för Recept
 
-Senast uppdaterad: 2026-10-03
+Senast uppdaterad: 2026-10-04
 
 ## Utgivare och kontakt
 
@@ -21,6 +21,10 @@ Importerade PDF-kopior sparas i appens privata lagring på Android. På Windows 
 Recept skickar inte PDF-filer eller receptuppgifter till utvecklaren eller till någon server för analys. Appen innehåller ingen annonsering eller egen användarspårning och säljer inte dina receptuppgifter.
 
 På Android är automatisk molnbackup och systemets överföring av appdata till en ny enhet avstängda genom appens backupinställningar. Detta tar inte bort säkerhetskopior som eventuellt skapats med äldre versioner. På Windows kan din egen backup-programvara omfatta den lokala lagringen.
+
+## Lokala aviseringar på Android
+
+Om du tillåter aviseringar planerar appen påminnelser utifrån lokalt sparade uppgifter. Aviseringarna innehåller inte läkemedelsnamn eller receptdetaljer. Planeringen och information om redan aviserade varningar sparas lokalt. Inga uppgifter skickas till en server för aviseringarna. Du kan stänga av dem i Androids aviseringsinställningar för Recept.
 
 ## Internet och externa tjänster
 
